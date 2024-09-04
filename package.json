@@ -1,0 +1,32 @@
+{
+  "name": "nebulagracex",
+  "version": "1.0.0",
+  "description": "Network Manipulation Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hacking",
+    "Cyber",
+    "Security",
+    "Ethical",
+    "Hacking",
+    "CLI"
+  ],
+  "author": "Coretxona, inc X Nebula",
+  "license": "MIT",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "commander": "^12.1.0",
+    "dns": "^0.2.2",
+    "figlet": "^1.7.0",
+    "ip": "^2.0.1",
+    "net": "^1.0.2",
+    "os": "^0.1.2",
+    "ping": "^0.4.4",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "whois": "^2.14.2"
+  }
+}
